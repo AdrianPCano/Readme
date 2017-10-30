@@ -1,3 +1,4 @@
+# Prueba
 # Readme
 ## ¿Qué es GitHub?
 GitHub es una **plataforma de desarrollo colaborativo** de software para alojar proyectos utilizando el sistema de control de versiones Git. El código se almacena de forma pública, aunque también se puede hacer de forma privada, creando una cuenta de pago.
@@ -15,5 +16,5 @@ print s
 | HTML          | XML         | 
 | ------------- |:-------------:|
 |    Concebido para mostrar información, determinar como actúa y qué hace|  Conceido para describir información                    | 
-| col 2 is      | centered      |  
+| col 2 is      | Ayuda a organizar contenidos que pretende almacenar      |  
 | zebra stripes | are neat      | 
