@@ -12,8 +12,8 @@ GitHub aloja tu repositorio de código y te brinda herramientas muy útiles para
 s = "Python syntax highlighting"
 print s
 ```
-| HTML          | XHTML        | Diferencias  |
-| ------------- |:-------------:| -----------:|
-| "<br>"        | "<br> </br>"    | $1600     |
-| col 2 is      | centered      |   $12       |
-| zebra stripes | are neat      |    $1       |
+| HTML          | XML         | 
+| ------------- |:-------------:|
+|    Concebido para mostrar información, determinar como actúa y qué hace|  Conceido para describir información                    | 
+| col 2 is      | centered      |  
+| zebra stripes | are neat      | 
