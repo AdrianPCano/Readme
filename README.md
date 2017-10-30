@@ -8,3 +8,7 @@ GitHub aloja tu repositorio de código y te brinda herramientas muy útiles para
 * 1º elemento de la lista
 * 2º elemento de la lista
 * 3º elemetno de la lista
+```python
+s = "Python syntax highlighting"
+print s
+```
