@@ -16,5 +16,5 @@ print s
 | HTML          | XML         | 
 | ------------- |:-------------:|
 |    Concebido para mostrar información, determinar como actúa y qué hace|  Conceido para describir información                    | 
-| col 2 is      | Ayuda a organizar contenidos que pretende almacenar      |  
-| zebra stripes | are neat      | 
+| Ayuda a darle formato a los diversos contenidos de una página     | Ayuda a organizar contenidos que pretende almacenar      |  
+| Los documentos pueden ser desordenados | Hablamos de documentos bien formados    | 
